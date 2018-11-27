@@ -1,0 +1,15 @@
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.Form2.resources
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.Form3.resources
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.Form4.resources
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.Form5.resources
+C:\Users\A-Servis\source\repos\графика\Lab2\Lab2\obj\Debug\Lab2.gradient.resources
